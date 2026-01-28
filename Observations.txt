@@ -1,2 +1,6 @@
-Object     RA           DEC          Exposure (Hr)     Date
-----------------------------------------------------------------
+Object               RA           DEC          Exposure (Hr)     Date
+-------------------------------------------------------------------------
+Jupiter
+Saturn
+Orion's Nebula
+Horsehead Nebula     
